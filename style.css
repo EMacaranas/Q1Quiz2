@@ -1,0 +1,24 @@
+.container1{
+	display: flex;
+justify-content: center;
+}
+
+.container2{
+	background-color:#f0b505;
+	width: 400px;
+	padding-left: 150px;
+	margin: auto;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+	border: 2px dashed;
+	color: white;
+	border-color: black;
+}
+
+
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgz6yt6-03df4aa8-868b-431d-a32c-f829e2eea77c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGd6Nnl0Ni0wM2RmNGFhOC04NjhiLTQzMWQtYTMyYy1mODI5ZTJlZWE3N2MucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oBFhkz4SBJ08EP3zxm2qn93TUusiComVo0ZNR_AVY8s)
+
+}
+
